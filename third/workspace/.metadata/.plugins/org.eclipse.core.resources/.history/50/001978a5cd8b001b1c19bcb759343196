@@ -1,0 +1,5 @@
+package com.example.DetailedInfo.model;
+
+public class Player {
+
+}
