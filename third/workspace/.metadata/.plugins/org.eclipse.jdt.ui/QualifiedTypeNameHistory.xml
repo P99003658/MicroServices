@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.springframework.web.client.RestTemplate"/>
+    <fullyQualifiedTypeName name="com.example.DetailedInfo.model.Team"/>
+    <fullyQualifiedTypeName name="com.example.DetailedInfo.model.Player"/>
+</qualifiedTypeNameHistroy>
